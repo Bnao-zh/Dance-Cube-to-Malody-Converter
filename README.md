@@ -1,3 +1,3 @@
 tutorial
 
-<iframe src="tutorial.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<video src="https://tutorial.mp4" controls="true"  style="max-width: 100%;height: auto;"></video>
