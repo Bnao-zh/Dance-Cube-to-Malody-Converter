@@ -1,3 +1,3 @@
 tutorial
 
-<video src="tutorial.mp4" controls="true"></video>
+<video src="https://bnao.rovn.ink/tutorial.mp4" controls="true"></video>
