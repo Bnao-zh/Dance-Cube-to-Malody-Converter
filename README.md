@@ -1,1 +1,1 @@
-[tutorial](https://bnao.rovn.ink/tutorial.mp4)
+[tutorial](https://bnao-zh.github.io/tutorial.mp4)
